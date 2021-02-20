@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Rec</string>
+    <string name="activate_admin_rationale">Please activate device admin to continue</string>
+    <string name="foreground_channel">forground channel name</string>
+    <string name="call_listener_title">Listener for calls</string>
 </resources>
